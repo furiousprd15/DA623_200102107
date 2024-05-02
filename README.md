@@ -48,3 +48,10 @@ To run the notebook, follow these steps:
 
    ```bash
    git clone https://github.com/furiousprd15/DA623_200102107.git
+
+
+2. ```jupyter notebook
+
+3. Alternatively, you can view and run the notebook in Google Colab:
+ Open the notebook [DA623_TermProject_2107.ipynb](https://colab.research.google.com/drive/18v5nJIPXs9LGV2X5bqZJ6STxNHUbHFk3#scrollTo=PlfK8dl6dCr1) in Google Colab by clicking on the provided link.
+
